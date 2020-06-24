@@ -25,3 +25,4 @@ for i in ll:
         c=0
         input()
     webbrowser.open(i)
+print("complete")
